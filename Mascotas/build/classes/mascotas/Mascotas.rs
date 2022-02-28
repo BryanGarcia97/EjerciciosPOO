@@ -1,0 +1,12 @@
+Mascotas.Mascotas
+ejercicio3.Perro
+ejercicio3.Animal
+Mascotas.Hamster
+ejercicio3.Hamster
+ejercicio3.Gallo
+Mascotas.Gallo
+Mascotas.Animal
+ejercicio3.Gato
+Mascotas.Gato
+Mascotas.Perro
+ejercicio3.Ejercicio3
